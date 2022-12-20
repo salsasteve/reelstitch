@@ -16,6 +16,7 @@
   "dependencies": {
     "@heroicons/vue": "^2.0.13",
     "@quasar/extras": "^1.15.8",
+    "gun": "^0.2020.1238",
     "quasar": "^2.10.2"
   }
 }

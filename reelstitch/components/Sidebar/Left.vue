@@ -7,7 +7,7 @@
                 </div>
             </nuxt-link>
         </div>
-        <HomeModernIcon />
+        <Chat />
     </div>
 </template>
 
